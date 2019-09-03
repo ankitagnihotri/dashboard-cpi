@@ -1,0 +1,35 @@
+[
+  {
+      "created_at": "Mon, 02 Sep 2019 19:10:25 GMT",
+      "delete_count": 0,
+      "insert_count": 200,
+      "stats_id": 1,
+      "status_id": 1,
+      "table_name": "ProgramBase",
+      "total_count": 223,
+      "update_count": 23,
+      "updated_at": "Mon, 02 Sep 2019 19:10:25 GMT"
+  },
+  {
+      "created_at": "Mon, 02 Sep 2019 20:15:00 GMT",
+      "delete_count": 0,
+      "insert_count": 120,
+      "stats_id": 5,
+      "status_id": 1,
+      "table_name": "ProgramCopy",
+      "total_count": 133,
+      "update_count": 13,
+      "updated_at": "Mon, 02 Sep 2019 20:15:00 GMT"
+  },
+  {
+      "created_at": "Mon, 02 Sep 2019 20:15:01 GMT",
+      "delete_count": 10,
+      "insert_count": 1120,
+      "stats_id": 6,
+      "status_id": 1,
+      "table_name": "ProgramCredit",
+      "total_count": 1133,
+      "update_count": 3,
+      "updated_at": "Mon, 02 Sep 2019 20:15:01 GMT"
+  }
+]

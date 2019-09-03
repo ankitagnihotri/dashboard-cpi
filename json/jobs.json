@@ -1,0 +1,20 @@
+[
+  {
+      "is_active": 1,
+      "job_name": "Bein_CPI_JOB",
+      "last_run": null,
+      "provider_name": "BABELEYE-BEIN"
+  },
+  {
+      "is_active": 1,
+      "job_name": "FOX_CPI_JOB",
+      "last_run": null,
+      "provider_name": "FOX-NETWORK"
+  },
+  {
+      "is_active": 1,
+      "job_name": "TivoVOD_CPI_JOB",
+      "last_run": null,
+      "provider_name": "TIVOVOD"
+  }
+]

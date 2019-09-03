@@ -1,0 +1,14 @@
+[
+  {
+    "created_at": "Mon, 02 Sep 2019 18:46:58 GMT",
+    "end_time": "Tue, 27 Aug 2019 07:31:35 GMT",
+    "error_message": null,
+    "job_id": 3,
+    "job_name": "TivoVOD_CPI_JOB",
+    "job_status": "FAIL",
+    "log_filename": "BABELEYE-BEIN.20190827T093005.log",
+    "start_time": "Tue, 27 Aug 2019 07:30:05 GMT",
+    "status_id": 4,
+    "updated_at": "Mon, 02 Sep 2019 18:46:58 GMT"
+}
+]
